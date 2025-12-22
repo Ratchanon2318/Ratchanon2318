@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ratchanon Noknoy</h1>
-  <p><b>Frontend Engineer | Full-Stack Developer | LINE OA Specialist</b></p>
+  <p><b>Frontend Engineer | LINE OA Automation Specialist</b></p>
 
   <p>
     <a href="https://ratchanon-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -25,13 +25,14 @@
 | **Automation** | ![LINE API](https://img.shields.io/badge/LINE_API-06C755?style=for-the-badge&logo=line&logoColor=white) ![Flex Message](https://img.shields.io/badge/Flex_Message-00B900?style=for-the-badge&logo=line&logoColor=white) ![GAS](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white) |
 | **Operations** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) |
 
-## Experience & Impact
-**Frontend Developer | Health-Tech Division** *(Mar 2025 – Sep 2025)*
-* **Efficiency:** พัฒนาระบบคัดกรองผ่าน LINE OA **ลดระยะเวลาลงทะเบียนหน้างานลง 40%**
-* **Integration:** เชื่อมต่อ LINE API กับ Web App แบบ Real-time พร้อมระบบแจ้งเตือนอัตโนมัติ
-* **Compliance:** ออกแบบ UI ตามมาตรฐาน Accessibility และรองรับกฎหมาย PDPA ในระบบสุขภาพ
-
 ---
+
+## Key Achievements & Impact
+
+* **Process Automation:** พัฒนาระบบคัดกรองผ่าน LINE OA ลดความซ้ำซ้อนของงานเอกสารและเพิ่มความรวดเร็วในการบริการ
+* **Interactive UI/UX:** ออกแบบ **LINE Flex Messages** ให้ใช้งานง่าย (Inclusive Design) รองรับผู้ใช้ทุกช่วงวัย
+* **Scalable Production:** ติดตั้งระบบ Telemedicine และ Health Portal บน Next.js ใช้งานจริงในหน่วยงานรัฐอย่างเสถียร
+* **Data Privacy:** วางระบบการจัดการข้อมูลตามมาตรฐาน **PDPA** มุ่งเน้นความปลอดภัยสูงสุดของข้อมูลสุขภาพ
 
 ## Strategic Projects
 <img src="https://img.shields.io/badge/Status-Confirmed_Production-success?style=flat-square&logo=checkmarx" />
@@ -48,7 +49,7 @@
 <img src="https://img.shields.io/badge/Verified_By-Government_Agency-success?style=flat-square&logo=shield" />
 
 * **Enterprise Live:** ระบบใช้งานจริง ณ **เทศบาลเมืองกำแพงเพชร** [📄 ข่าวประชาสัมพันธ์](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
-* **Digital Media & Strategy:** ผ่านการอบรมการผลิตสื่อดิจิทัลและวางแผนยุทธศาสตร์จังหวัด [📄 รายละเอียดโครงการ](https://www.kppmu.go.th/news-detail?hd=1&id=126007)
+* **Digital Strategy:** ผ่านการอบรมการผลิตสื่อดิจิทัลและวางแผนยุทธศาสตร์จังหวัด [📄 รายละเอียด](https://www.kppmu.go.th/news-detail?hd=1&id=126007)
 * **Data Privacy:** ผ่านการอบรมธรรมาภิบาลข้อมูล (Data Governance) และ PDPA ภาครัฐ [📄 รายละเอียด](https://www.kppmu.go.th/news-detail?hd=1&id=126854)
 
 ---
