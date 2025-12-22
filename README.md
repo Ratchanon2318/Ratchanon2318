@@ -1,129 +1,82 @@
 <div align="center">
-  <h1>👨‍💻 Ratchanon Noknoy</h1>
-  <p><b>Full-Stack Developer | LINE API & Enterprise Automation Specialist</b></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/📍_Location-Kamphaeng_Phet,_TH-black?style=flat-square">
-    <img src="https://img.shields.io/badge/⚡_Main_Focus-LINE_API_%26_GAS-06C755?style=flat-square">
-    <img src="https://img.shields.io/badge/💼_Status-Open_for_Opportunities-blue?style=flat-square">
-  </p>
+  <h1>Ratchanon Noknoy</h1>
+  <p><b>Frontend Engineer | Full-Stack Developer | LINE OA Automation Specialist</b></p>
 
   <p>
     <a href="https://ratchanon-portfolio.onrender.com/">
-      <img src="https://img.shields.io/badge/🚀_VISIT_PORTFOLIO-0078D4?style=for-the-badge&logo=vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
-  </p>
-  
-  <p>
     <a href="https://www.linkedin.com/in/ratchanon-noknoy/">
-      <img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ratchanon.noknoy2318@gmail.com">
-      <img src="https://img.shields.io/badge/📧_Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Location-Kamphaeng_Phet,_TH-black?style=flat-square&logo=googlemaps&logoColor=red" />
+    <img src="https://img.shields.io/badge/Open_for_Opportunities-Yes-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Healthcare_Automation-06C755?style=flat-square&logo=line" />
   </p>
 </div>
 
 ---
 
-### 💡 Professional Summary
-**Full-Stack Developer** ผู้มุ่งเน้นการสร้างสรรค์ **Digital Solutions** เพื่อเพิ่มประสิทธิภาพการเข้าถึงบริการระดับองค์กร เชี่ยวชาญการออกแบบ **Automated Workflows** ผ่าน **LINE Messaging API** และพัฒนาระบบ Web Application ประสิทธิภาพสูงด้วย **Next.js** โดยยึดหลักการออกแบบที่เน้นผู้ใช้งานเป็นศูนย์กลาง (User-Centric Design)
+## Professional Profile
+นักพัฒนาซอฟต์แวร์ที่มุ่งเน้นการสร้าง **Scalable Frontend Solutions** และ **Enterprise Automation** มีประสบการณ์ความเชี่ยวชาญพิเศษในการบูรณาการ LINE Messaging API เข้ากับระบบสาธารณสุข (Healthcare) เพื่อเพิ่มประสิทธิภาพการดำเนินงาน (Operational Excellence) และลดต้นทุนด้านเวลาของบุคลากรทางการแพทย์
 
 ---
-### 🏆 Key Achievements
 
-| Area | Impact & Solution |
+## Technical Expertise
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Workflow Automation** | พัฒนาระบบ Next.js/GAS ลดขั้นตอน Manual และลดภาระงานเจ้าหน้าที่อย่างมีประสิทธิภาพ |
-| **Patient Experience** | ลดระยะเวลาการรอคอยของผู้ป่วยผ่านระบบลงทะเบียนดิจิทัลบน LINE OA |
-| **Real-time Engagement** | ระบบแจ้งเตือนสถานะทันทีผ่าน LINE Messaging & REST API เพื่อการตอบสนองที่รวดเร็ว |
+| **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS |
+| **Automation & Backend** | LINE Messaging API, LIFF, Google Apps Script, RESTful API |
+| **Tools & Operations** | Git, GitHub, Vercel, VS Code, Postman |
 
 ---
 
-### 💼 Work Experience
+## Professional Experience
 
-| Period | Role | Focus & Key Achievements |
-| :--- | :--- | :--- |
-| **Mar – Sep 2025** | **Full Stack Developer** | พัฒนาเว็บไซต์และแพลตฟอร์มดูแลสตรีมีครรภ์ พร้อมระบบ Telemedicine, ใช้ Google Apps Script, LINE OA และ SQL จัดการฐานข้อมูล ออกแบบ UI/UX เพื่อประสบการณ์ผู้ป่วยที่ราบรื่น |
+### Frontend Developer | Telemedicine & Health-Tech
+*มีนาคม 2025 – กันยายน 2025*
 
----
-
-### 🛠 Technical Expertise
-
-| Category | Specialized Solutions | Core Technologies |
-| :--- | :--- | :--- |
-| **Automation & Bot** | Enterprise Chatbot, Auto-Notifications, & Booking Systems | LINE Messaging API, Webhooks |
-| **Frontend Dev** | High-Performance Web Portals & Responsive Design | Next.js, React, Tailwind CSS |
-| **Workflow Optimization** | System Workflow & API Integration Solutions | Google Apps Script, REST API |
+* **Operational Efficiency:** ออกแบบและพัฒนาระบบ Telemedicine ผ่าน LINE OA ช่วยลดขั้นตอนการคัดกรองผู้ป่วยเบื้องต้น ส่งผลให้ลดความแออัดในพื้นที่บริการได้อย่างมีประสิทธิภาพ
+* **System Integration:** บูรณาการ API ระหว่าง Web Application และ LINE API รองรับการส่งแจ้งเตือนแบบ Real-time และการจัดการข้อมูลผู้ป่วยที่ปลอดภัย
+* **Accessibility Design:** พัฒนา Interface โดยยึดหลัก Inclusive Design เพื่อให้กลุ่มผู้ใช้ทุกช่วงวัย โดยเฉพาะผู้สูงอายุ สามารถเข้าถึงบริการได้ง่าย
 
 ---
 
-### 🏆 Featured Case Studies
-*Project-driven solutions with real-world impact*
+## Key Projects & Live Products
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Confirmed_Production-success?style=for-the-badge&logo=checkmarx" />
+</p>
+
+| Project | Description | Deployment Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Telemedicine System** | ระบบลงทะเบียนและคัดกรองผู้ป่วยผ่าน LINE OA | `Next.js` `LINE API` | [Live Product](https://kppmch-register.vercel.app/) |
+| **Maternal Health** | ระบบลงทะเบียนและให้ข้อมูลสุขภาพเชิงรุกสำหรับคุณแม่และทารก | `Next.js` `Line API` | [Live Demo](https://kppmch-pregnant.vercel.app/) |
+| **Hospital Portal** | แพลตฟอร์มศูนย์รวมบริการดิจิทัล (One-stop Service) สำหรับโรงพยาบาล | `React` `Next.js` | [Live Demo](https://kppmch-service.vercel.app/) |
+
+---
+
+## Verified Achievements & Governance
+
+![Verified](https://img.shields.io/badge/Verified_By-Government_Agency-success?style=flat-square&logo=shield)
+
+* **Production Deployment:** ระบบ Telemedicine ถูกนำไปใช้งานจริง ณ **เทศบาลเมืองกำแพงเพชร** เพื่อสนับสนุนการเข้าถึงบริการสาธารณสุขดิจิทัล [อ่านข่าวประชาสัมพันธ์](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+* **Strategic Planning:** ผ่านการอบรมการวางแผนยุทธศาสตร์ดิจิทัลระดับจังหวัด เพื่อขับเคลื่อนองค์กรด้วยนวัตกรรม [ดูรายละเอียด](https://www.kppmu.go.th/news-detail?hd=1&id=126007)
+* **Digital Governance:** มีความเข้าใจเชิงลึกด้านธรรมาภิบาลข้อมูล (Data Governance) และกฎหมายคุ้มครองข้อมูลส่วนบุคคล (PDPA) สำหรับระบบสาธารณสุข [ดูรายละเอียด](https://www.kppmu.go.th/news-detail?hd=1&id=126854)
+
+---
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <a href="https://kppmch-register.vercel.app/PatientRegister">
-          <img src="https://ratchanon-portfolio.onrender.com/_next/image?url=%2Fprojects%2FResgiter_telemedicine.png&w=3840&q=75" width="850" style="border-radius:12px; border: 1px solid #eaeaea;"/>
-        </a>
-        <br />
-        <b>🤖 Telemed & LINE OA Integration</b><br/>
-        <i>ระบบลงทะเบียนแพทย์ออนไลน์ที่ช่วยลดขั้นตอนการบริการ (Optimized Patient Journey)</i>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://kppmch-service.vercel.app/">
-          <img src="https://ratchanon-portfolio.onrender.com/_next/image?url=%2Fprojects%2Fkppmch_hospital.png&w=3840&q=75" style="border-radius:12px; border: 1px solid #eaeaea;"/>
-        </a>
-        <p align="left"><b>🏥 Hospital Service Hub</b><br/><i>ศูนย์รวมดิจิทัลพอร์ทัลเพื่อการเข้าถึงข้อมูลโรงพยาบาลแบบ Unified Platform</i></p>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://kppmch-pregnant.vercel.app/">
-          <img src="https://ratchanon-portfolio.onrender.com/_next/image?url=%2Fprojects%2Fkppmch_pregnant.png&w=3840&q=75" style="border-radius:12px; border: 1px solid #eaeaea;"/>
-        </a>
-        <p align="left"><b>🤰 Maternal Health Platform</b><br/><i>แพลตฟอร์มติดตามสุขภาพมารดาและทารก เน้นความง่ายในการใช้งานผ่าน Web-based</i></p>
-      </td>
-    </tr>
-  </table>
+  <p><b>Let's build something amazing together!</b></p>
+  <p>
+    <a href="https://www.linkedin.com/in/ratchanon-noknoy/">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+    </a>
+  </p>
 </div>
-
----
-
-### 🌟 Professional Activities
-
-| Year | Milestone / Activity | Description |
-| :--- | :--- | :--- |
-| 2025 | [**Telemedicine System Deployment**](https://www.kppmu.go.th/news-detail?hd=1&id=124000) | พัฒนาระบบลงทะเบียนดิจิทัลเพื่อสนับสนุนงานบริการสาธารณสุขชุมชน (ลงพื้นที่วิจัยและใช้งานจริง) |
-| 2025 | [**Digital Strategy Workshop**](https://www.kppmu.go.th/news-detail?hd=1&id=126007) | พัฒนาทักษะการจัดการข้อมูลและกลยุทธ์สื่อดิจิทัลเพื่อเพิ่มประสิทธิภาพองค์กร |
-| 2025 | [**Digital Governance Training**](https://www.kppmu.go.th/news-detail?hd=1&id=126854) | อบรมด้านจริยธรรมดิจิทัล การป้องกันทุจริต และการบริหารจัดการงานภาครัฐยุคใหม่ |
-
----
-
-### 💻 Tech Stack & Ecosystem
-
-<p align="left">
-  <b>Development Frameworks:</b><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css" />
-  <img src="https://img.shields.io/badge/-LINE%20API-06C755?style=flat-square&logo=line&logoColor=white" height="48px" />
-  <br/><br/>
-  <b>Workflow & Tools:</b><br/>
-  <img src="https://skillicons.dev/icons?i=vercel,github,git,vscode" />
-  <img src="https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white" height="40px" />
-</p>
-
----
-
-<p align="center">
-  <br/>
-  <a href="https://ratchanon-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀_GET_IN_TOUCH_VIA_PORTFOLIO-0078D4?style=for-the-badge"/>
-  </a>
-</p>
