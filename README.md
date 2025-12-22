@@ -1,67 +1,75 @@
-<a name="top"></a>
-
 <div align="center">
+  <h1>Ratchanon Noknoy</h1>
+  <p>
+    <b>Frontend Developer</b> • <b>Automation Specialist</b> • <b>Digital Health Solutions</b>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge&logo=next.js" />
+    <img src="https://img.shields.io/badge/LINE_API-Automation-06C755?style=for-the-badge&logo=line" />
+    <img src="https://img.shields.io/badge/Hospital_System-HOSxP_Integration-blue?style=for-the-badge&logo=googlecloud" />
+  </p>
+
   <a href="https://ratchanon-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/VIEW_INTERACTIVE_PORTFOLIO-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 1. Quick Overview
-* **Frontend Engineer:** Focusing on **React Ecosystem** and **Next.js** to deliver high-performance web applications.
-* **Automation Specialist:** Experienced in **LINE Messaging API** and **Google Apps Script** to streamline public sector workflows.
-* **Data-Driven:** Familiar with **Healthcare Data Structures (HOSxP)** through efficient SQL data querying.
+### 🚀 Quick Overview
+* 💻 **Frontend:** พัฒนา Web Application ด้วย **React** และ **Next.js** มุ่งเน้นการสร้าง UI ที่ใช้งานง่าย (User-Friendly)
+* 🤖 **Automation:** เชี่ยวชาญการประยุกต์ใช้ **LINE Messaging API** เพื่อสร้างระบบแจ้งเตือนและบริการประชาชนอัตโนมัติ
+* 🏥 **Health Tech:** มีประสบการณ์ทำงานร่วมกับฐานข้อมูลโรงพยาบาล (**HOSxP**) เพื่อดึงข้อมูลมาเชื่อมต่อกับบริการดิจิทัล
 
 ---
 
-### 2. Technical Stack
+### 🛠 Technical Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Automation** | ![LINE API](https://img.shields.io/badge/LINE_API-06C755?style=flat-square&logo=line) ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=google) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) |
-| **Infrastructure** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render) |
+| **Data & Infra** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) |
 
 ---
 
-### 3. Professional Journey
-**Frontend Developer (LINE OA & Web Solutions)** • *โรงพยาบาลชุมชนเทศบาลเมืองกำแพงเพชร | มี.ค. 2568 - ก.ย. 2568*
+### 💼 Professional Journey
+**Frontend Developer (LINE OA & Web Solutions)** *โรงพยาบาลชุมชนเทศบาลเมืองกำแพงเพชร | มี.ค. 2568 - ก.ย. 2568*
 
-* **Telemedicine Ecosystem:** พัฒนา Frontend ระบบ **Telemedicine** ด้วย Next.js เพื่อเพิ่มช่องทางการรับบริการดิจิทัลให้แก่ประชาชน
-* **Workflow Modernization:** วางระบบ **LINE Messaging API** เพื่อเปลี่ยนขั้นตอน Manual เป็นระบบอัตโนมัติ รองรับบริการประชาชนได้แบบ **24/7**
-* **Data Retrieval:** ใช้งาน **SQL Queries** เพื่อจัดการข้อมูลผู้ป่วยบนฐานข้อมูล **HOSxP** ให้สอดคล้องกับระบบดิจิทัล
+* 🏥 **Telemedicine System:** พัฒนาส่วนหน้าบ้านสำหรับระบบลงทะเบียนพบแพทย์ออนไลน์ เพื่อลดความแออัดในโรงพยาบาล
+* ⚡ **Workflow Automation:** ออกแบบ Chatbot และระบบจัดการคิวผ่าน LINE Messaging API
+* 📊 **Data Integration:** ใช้งาน SQL เพื่อสืบค้นข้อมูลจากฐานข้อมูล **HOSxP** มาใช้ในโครงการดิจิทัลต่างๆ
 
 ---
 
-### 4. Featured Production Projects
-| Project | Core Value | Tech Stack |
+### 🏆 Featured Production Projects
+| Project | Core Value | Status |
 | :--- | :--- | :--- |
-| **[Telemedicine System](https://kppmch-register.vercel.app/)** | Facilitated instant registration and virtual consultations. | Next.js, LINE API |
-| **[Maternal Care Portal](https://kppmch-pregnant.vercel.app/)** | Digitized health tracking for 100+ active maternal cases. | React, LINE OA |
-| **[Hospital Service Hub](https://kppmch-service.vercel.app/)** | Centralized internal hospital workflows through automation. | Next.js, GAS |
+| **[Telemedicine System](https://kppmch-register.vercel.app/)** | ระบบลงทะเบียนพบแพทย์ออนไลน์ | 🟢 Live |
+| **[Maternal Care Portal](https://kppmch-pregnant.vercel.app/)** | ระบบติดตามสุขภาพคุณแม่และเด็ก | 🟢 Live |
+| **[Hospital Service Hub](https://kppmch-service.vercel.app/)** | ศูนย์รวมลิงก์บริการและข้อมูลโรงพยาบาล | 🟢 Live |
 
 ---
 
-### 5. Domain Expertise
-* **HOSxP Integration:** มีประสบการณ์ใช้ SQL Query เพื่อสืบค้นและจัดการโครงสร้างข้อมูลในระบบ HOSxP
-* **Civic Technology:** พัฒนาโซลูชันเทคโนโลยีเพื่อแก้ปัญหาหน้างานจริงในหน่วยงานรัฐ [📄 ข่าวประกาศทางการ](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+### 🩺 Domain Focus
+* **HOSxP Data Querying:** มีทักษะพื้นฐานในการสืบค้นข้อมูลจากโครงสร้างฐานข้อมูล HOSxP
+* **Digital Health Transformation:** สนใจและมีประสบการณ์พัฒนาเครื่องมือดิจิทัลเพื่อเพิ่มประสิทธิภาพในหน่วยงานรัฐ [📄 อ่านต่อ](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
 
 ---
 
-### 6. Education
-* **Bachelor of Science in Software Engineering** • *Mae Fah Luang University, Thailand | Class of 2024*
+### 🎓 Education
+* **B.Sc. in Software Engineering** *Mae Fah Luang University | 2024*
 
 ---
 
-### 7. Contact Information
+### 📞 Contact Information
 <div align="left">
-  <p><b>Ratchanon Noknoy</b></p>
   <p>
     <a href="https://www.linkedin.com/in/ratchanon-noknoy/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:ratchanon.noknoy2318@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
@@ -69,5 +77,5 @@
 ---
 
 <div align="center">
-  <i>Delivering scalable code and meaningful digital transformations.</i>
+  <i>"Leveraging technology to improve public health workflows."</i>
 </div>
