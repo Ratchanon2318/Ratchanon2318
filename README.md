@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
   <h1>Ratchanon Noknoy</h1>
   <p>
@@ -26,8 +28,6 @@
   <p><i>"Bridging the gap between complex healthcare workflows and intuitive digital solutions."</i></p>
 </div>
 
-<div id="top"></div>
-
 ---
 
 ### Table of Contents
@@ -40,15 +40,15 @@
 
 ---
 
+<a name="1-quick-overview"></a>
 ### 1. Quick Overview
 * **Frontend:** Focusing on **React Ecosystem** and **Next.js** to deliver high-performance web applications.
 * **Automation:** Experienced in **LINE Messaging API** and **Google Apps Script** to streamline public sector workflows.
 * **Data:** Familiar with **Healthcare Data Structures (HOSxP)** through efficient SQL data querying.
 
-<div align="right">[ <a href="#top">Back to Top</a> ]</div>
-
 ---
 
+<a name="2-technical-stack"></a>
 ### 2. Technical Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -56,10 +56,9 @@
 | **Automation** | ![LINE API](https://img.shields.io/badge/LINE_API-06C755?style=flat-square&logo=line) ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=google) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) |
 | **Infrastructure** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render) |
 
-[↑ Back to Top](#top)
-
 ---
 
+<a name="3-professional-journey"></a>
 ### 3. Professional Journey
 **Frontend Developer (LINE OA & Web Solutions)** • *โรงพยาบาลชุมชนเทศบาลเมืองกำแพงเพชร | มี.ค. 2568 - ก.ย. 2568*
 
@@ -67,10 +66,9 @@
 * **Workflow Modernization:** วางระบบ **LINE Messaging API** เพื่อเปลี่ยนขั้นตอน Manual เป็นระบบอัตโนมัติ รองรับบริการประชาชนได้แบบ **24/7**
 * **Data Retrieval:** ใช้งาน **SQL Queries** เพื่อจัดการข้อมูลผู้ป่วยบนฐานข้อมูล **HOSxP** ให้สอดคล้องกับระบบดิจิทัล
 
-<div align="right">[ <a href="#top">Back to Top</a> ]</div>
-
 ---
 
+<a name="4-featured-production-projects"></a>
 ### 4. Featured Production Projects
 | Project | Core Value | Tech Stack |
 | :--- | :--- | :--- |
@@ -78,22 +76,18 @@
 | **[Maternal Care Portal](https://kppmch-pregnant.vercel.app/)** | Digitized health tracking for 100+ active maternal cases. | React, LINE OA |
 | **[Hospital Service Hub](https://kppmch-service.vercel.app/)** | Centralized internal hospital workflows through automation. | Next.js, GAS |
 
-<div align="right">[ <a href="#top">Back to Top</a> ]</div>
-
 ---
 
+<a name="5-domain-expertise"></a>
 ### 5. Domain Expertise
 * **HOSxP Integration:** มีประสบการณ์ใช้ SQL Query เพื่อสืบค้นและจัดการโครงสร้างข้อมูลในระบบ HOSxP
 * **Civic Technology:** พัฒนาโซลูชันเทคโนโลยีเพื่อแก้ปัญหาหน้างานจริงในหน่วยงานรัฐ [📄 ข่าวประกาศทางการ](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
 
-<div align="right">[ <a href="#top">Back to Top</a> ]</div>
-
 ---
 
+<a name="6-education"></a>
 ### 6. Education
 * **Bachelor of Science in Software Engineering** • *Mae Fah Luang University, Thailand | Class of 2024*
-
-<div align="right">[ <a href="#top">Back to Top</a> ]</div>
 
 ---
 
