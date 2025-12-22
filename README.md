@@ -1,81 +1,71 @@
 <div align="center">
   <h1>Ratchanon Noknoy</h1>
-  <p>
-    <b>Frontend Developer</b> • <b>Automation Specialist</b> • <b>Digital Health Solutions</b>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge&logo=next.js" />
-    <img src="https://img.shields.io/badge/LINE_API-Automation-06C755?style=for-the-badge&logo=line" />
-    <img src="https://img.shields.io/badge/Hospital_System-HOSxP_Integration-blue?style=for-the-badge&logo=googlecloud" />
-  </p>
+  <p>Software Engineer • Frontend Developer • Automation Workflow</p>
 
   <a href="https://ratchanon-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW_INTERACTIVE_PORTFOLIO-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 🚀 Quick Overview
-* 💻 **Frontend:** พัฒนา Web Application ด้วย **React** และ **Next.js** มุ่งเน้นการสร้าง UI ที่ใช้งานง่าย (User-Friendly)
-* 🤖 **Automation:** เชี่ยวชาญการประยุกต์ใช้ **LINE Messaging API** เพื่อสร้างระบบแจ้งเตือนและบริการประชาชนอัตโนมัติ
-* 🏥 **Health Tech:** มีประสบการณ์ทำงานร่วมกับฐานข้อมูลโรงพยาบาล (**HOSxP**) เพื่อดึงข้อมูลมาเชื่อมต่อกับบริการดิจิทัล
-
----
-
-### 🛠 Technical Stack
-| Category | Tools & Technologies |
+### Technical Expertise
+| Cluster | Stack & Tools |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Automation** | ![LINE API](https://img.shields.io/badge/LINE_API-06C755?style=flat-square&logo=line) ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=google) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) |
-| **Data & Infra** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) |
+| **Data & Cloud** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render) |
 
 ---
 
-### 💼 Professional Journey
-**Frontend Developer (LINE OA & Web Solutions)** *โรงพยาบาลชุมชนเทศบาลเมืองกำแพงเพชร | มี.ค. 2568 - ก.ย. 2568*
+### Professional Experience
+**Frontend Developer** | *รพ.เทศบาลเมืองกำแพงเพชร*
+**Period:** มี.ค. 2568 – ก.ย. 2568
 
-* 🏥 **Telemedicine System:** พัฒนาส่วนหน้าบ้านสำหรับระบบลงทะเบียนพบแพทย์ออนไลน์ เพื่อลดความแออัดในโรงพยาบาล
-* ⚡ **Workflow Automation:** ออกแบบ Chatbot และระบบจัดการคิวผ่าน LINE Messaging API
-* 📊 **Data Integration:** ใช้งาน SQL เพื่อสืบค้นข้อมูลจากฐานข้อมูล **HOSxP** มาใช้ในโครงการดิจิทัลต่างๆ
+| Focus Area | Key Contributions & Business Impact |
+| :--- | :--- |
+| **Web Engineering** | พัฒนา High-performance Web Apps ด้วย **Next.js** เพื่อรองรับระบบ Telemedicine |
+| **Workflow Automation** | พัฒนา **LINE API Solutions** เพื่อทำระบบตอบกลับอัตโนมัติและลดภาระงาน Manual (24/7) |
+| **Data Governance** | บริหารจัดการและเชื่อมโยงข้อมูลผู้ป่วยจากระบบ **HOSxP** เข้ากับระบบดิจิทัลอย่างปลอดภัย |
 
 ---
 
-### 🏆 Featured Production Projects
-| Project | Core Value | Status |
+### Key Achievements
+* **Digital Transformation:** ประสบความสำเร็จในการพัฒนาระบบ Telemedicine เพื่อเปลี่ยนผ่านกระบวนการรับบริการสู่รูปแบบดิจิทัลอย่างเต็มรูปแบบ
+* **Operational Efficiency:** ระบบ LINE Automation ช่วยลดความซ้ำซ้อนในการตอบคำถามและเพิ่มประสิทธิภาพในการสื่อสารระหว่างหน่วยงานกับประชาชน
+* **Scalable Infrastructure:** ออกแบบโครงสร้างระบบให้รองรับการรับส่งข้อมูลปริมาณมากและคงความเสถียรในทุกสภาพการใช้งาน
+* **Strategic Value:** ผลงานได้รับการยอมรับในระดับหน่วยงานและได้รับการเผยแพร่ในฐานะโครงการต้นแบบด้าน Digital Health [📄 รายละเอียดโครงการ](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+
+---
+
+### Featured Production Projects
+| High-Impact Projects | Core Value | Status |
 | :--- | :--- | :--- |
-| **[Telemedicine System](https://kppmch-register.vercel.app/)** | ระบบลงทะเบียนพบแพทย์ออนไลน์ | 🟢 Live |
-| **[Maternal Care Portal](https://kppmch-pregnant.vercel.app/)** | ระบบติดตามสุขภาพคุณแม่และเด็ก | 🟢 Live |
-| **[Hospital Service Hub](https://kppmch-service.vercel.app/)** | ศูนย์รวมลิงก์บริการและข้อมูลโรงพยาบาล | 🟢 Live |
+| **[Telemedicine System](https://kppmch-register.vercel.app/)** | Facilitated instant patient registration and virtual visits. | 🟢 Live |
+| **[Maternal Care Portal](https://kppmch-pregnant.vercel.app/)** | Digitized health tracking for post-natal maternal care. | 🟢 Live |
+| **[Hospital Service Hub](https://kppmch-service.vercel.app/)** | Centralized hospital workflows through automated services. | 🟢 Live |
 
 ---
 
-### 🩺 Domain Focus
-* **HOSxP Data Querying:** มีทักษะพื้นฐานในการสืบค้นข้อมูลจากโครงสร้างฐานข้อมูล HOSxP
-* **Digital Health Transformation:** สนใจและมีประสบการณ์พัฒนาเครื่องมือดิจิทัลเพื่อเพิ่มประสิทธิภาพในหน่วยงานรัฐ [📄 อ่านต่อ](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+### Education
+* **Bachelor of Science in Software Engineering**
+  * Mae Fah Luang University | Class of 2024
 
 ---
 
-### 🎓 Education
-* **B.Sc. in Software Engineering** *Mae Fah Luang University | 2024*
-
----
-
-### 📞 Contact Information
+### Contact & Connect
 <div align="left">
-  <p>
-    <a href="https://www.linkedin.com/in/ratchanon-noknoy/">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:ratchanon.noknoy2318@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/ratchanon-noknoy/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ratchanon.noknoy2318@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Leveraging technology to improve public health workflows."</i>
+  <i>"Optimizing healthcare efficiency through scalable technology and clean code."</i>
 </div>
