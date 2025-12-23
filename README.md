@@ -61,7 +61,7 @@
 ### **3. Hospital Service Hub**
 **Centralized portal for hospital services and public information.**
 
-[![Visit Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-21759B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kppmch-service.app/)
+[![Visit Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-21759B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kppmch-service.vercel.app/)
 
 ![Service Hub Preview](https://ratchanon-portfolio.onrender.com/projects/kppmch_hospital.png)
 
