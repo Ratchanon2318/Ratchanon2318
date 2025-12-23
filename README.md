@@ -9,6 +9,15 @@
 
 ---
 
+## Navigation
+- [Professional Summary](#professional-summary)
+- [Technical Stack](#technical-stack)
+- [Professional Experience](#professional-experience)
+- [Featured Projects](#featured-projects)
+- [Education](#education)
+
+---
+
 ## Professional Summary
 Full Stack Software Engineer specializing in **Digital Healthcare Systems**.  
 Experienced in integrating **HOSxP hospital databases** with modern **Next.js** applications and **LINE Official Account (LINE OA)** automation. Proven ability to digitize clinical workflows, reduce manual processes, and improve patient experience through secure, data-driven web solutions.
@@ -46,7 +55,7 @@ Experienced in integrating **HOSxP hospital databases** with modern **Next.js** 
 ### 🩺 Telemedicine & Online Registration
 [![Visit Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-21759B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kppmch-register.vercel.app/PatientRegister)
 
-![Telemedicine Preview](https://ratchanon-portfolio.onrender.com/projects/Register_telemedicine.png)
+![Telemedicine Preview](https://ratchanon-portfolio.onrender.com/projects/Resgiter_telemedicine.png)
 
 *A digital gateway for remote consultations and streamlined patient onboarding.*
 
