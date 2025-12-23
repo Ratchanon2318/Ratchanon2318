@@ -1,69 +1,91 @@
+# Ratchanon Noknoy
+### **Full Stack Developer | Digital Healthcare | Next.js • LINE OA • HOSxP**
+*Bridging legacy hospital systems with modern, scalable web applications.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratchanon-noknoy/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/ratchanon.noknoy2318)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=googlechrome&logoColor=white)](https://ratchanon-portfolio.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ratchanon.noknoy2318@gmail.com)
+
+---
+
+## Professional Summary
+Full Stack Software Engineer specializing in **Digital Healthcare Systems**.  
+Experienced in integrating **HOSxP hospital databases** with modern **Next.js** applications and **LINE Official Account (LINE OA)** automation. Proven ability to digitize clinical workflows, reduce manual processes, and improve patient experience through secure, data-driven web solutions.
+
+---
+
+## Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, JavaScript, Tailwind CSS |
+| **Healthcare Systems** | HOSxP (Hospital Information System), MySQL, Clinical & Patient Data |
+| **Automation & Integration** | LINE Messaging API (LINE OA), Google Apps Script |
+| **Backend & API** | Node.js, REST API |
+| **Deployment & CI/CD** | GitLab CI/CD, Vercel, Render |
+
+---
+
+## Professional Experience
+
+### **Full Stack Developer (Healthcare Solutions)**
+**Kamphaeng Phet Municipal Community Hospital**  
+*Mar 2025 – Present*
+
+- **System Modernization:** Designed and developed a Telemedicine and online registration platform using **Next.js**, replacing paper-based clinical workflows.
+- **HOSxP Integration:** Implemented secure SQL-based data retrieval from HOSxP to enable real-time visualization of patient and appointment data.
+- **Workflow Automation:** Built automated patient registration and notification flows via **LINE OA + Google Apps Script**, reducing onsite registration workload by ~40%.
+- **CI/CD & Deployment:** Configured **GitLab CI/CD pipelines** for automated build and deployment to **Vercel** and **Render**, ensuring high availability and fast iteration.
+- **UX Improvement:** Redesigned staff and patient interfaces, reducing data entry errors and shortening average registration time.
+
+---
+
+## Featured Projects
+
+### 🩺 Telemedicine & Online Registration
+[![Visit Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-21759B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kppmch-register.vercel.app/PatientRegister)
+
+![Telemedicine Preview](https://ratchanon-portfolio.onrender.com/projects/Register_telemedicine.png)
+
+*A digital gateway for remote consultations and streamlined patient onboarding.*
+
+- **Impact:** Fully automated patient registration pipeline replacing manual administrative tasks.
+- **Deployment:** GitLab CI/CD → Vercel
+- **Tech Stack:** `Next.js`, `Tailwind CSS`, `Google Apps Script`, `LINE Messaging API`
+
+---
+
+### 🤱 Maternal & Postpartum Care Portal
+[![Visit Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-21759B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kppmch-pregnant.vercel.app/)
+
+![Maternal Care Preview](https://ratchanon-portfolio.onrender.com/projects/kppmch_pregnant.png)
+
+*Health monitoring platform for pregnant women and newborns with automated follow-ups.*
+
+- **Impact:** Improved patient engagement through scheduled LINE notifications.
+- **Tech Stack:** `Next.js`, `CSS Modules`, `LINE Messaging API`
+
+---
+
+### 🏥 Hospital Service Hub
+[![Visit Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-21759B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kppmch-service.vercel.app/)
+
+![Service Hub Preview](https://ratchanon-portfolio.onrender.com/projects/kppmch_hospital.png)
+
+*A centralized portal for hospital services and public information.*
+
+- **Impact:** 24/7 digital access to hospital services for patients and the public.
+- **Tech Stack:** `Next.js`, `Vercel`, `Responsive UI`
+
+---
+
+## Education
+**Bachelor of Science in Software Engineering**  
+Mae Fah Luang University, Thailand | Class of 2024
+
+---
+
 <div align="center">
-  <h1>รัชชานนท์ นกน้อย <img src="https://img.shields.io/badge/-Verified-blue?style=flat&logo=checkmarx&logoColor=white" height="20"></h1>
-  <p>Software Engineer | Frontend Developer | Automation Workflow</p>
-
-  <a href="https://ratchanon-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/ดูพอร์ตโฟลิโอ-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</div>
-
----
-
-### ความเชี่ยวชาญทางเทคนิค (Technical Expertise)
-| หมวดหมู่ | เทคโนโลยีที่ใช้ |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Automation** | ![LINE API](https://img.shields.io/badge/LINE_API-06C755?style=flat-square&logo=line) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=google) |
-| **Data & Cloud** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render) |
-
----
-
-### ประสบการณ์การทำงาน
-**Frontend Developer** | [cite_start]**โรงพยาบาลเทศบาลเมืองกำแพงเพชร** [cite: 11, 12]
-*มี.ค. 2568 – ก.ย. [cite_start]2568* [cite: 13]
-
-| ด้านที่เน้น | ความรับผิดชอบและผลงานสำคัญ |
-| :--- | :--- |
-| **Web Engineering** | พัฒนาส่วนหน้า (Frontend) สำหรับระบบ Telemedicine และระบบติดตามสุขภาพด้วย **Next.js** [cite: 14] |
-| **Workflow Automation** | ออกแบบโซลูชัน **LINE Messaging API** เพื่อเปลี่ยนขั้นตอนการทำงานแบบ Manual ให้เป็นระบบอัตโนมัติ [cite: 15] |
-| **Data Management** | สืบค้นและจัดการข้อมูลผู้ป่วยจากฐานข้อมูล **HOSxP** เพื่อเชื่อมต่อกับบริการดิจิทัล [cite: 16] |
-
----
-
-### ความสำเร็จที่สำคัญ (Key Achievements)
-| ด้าน | ผลกระทบและผลลัพธ์เชิงกลยุทธ์ |
-| :--- | :--- |
-| **Digital Transformation** | เป็นผู้นำในการเปลี่ยนผ่านกระบวนการรับบริการของโรงพยาบาลสู่รูปแบบดิจิทัลเต็มรูปแบบ [cite: 24] |
-| **Process Optimization** | ลดความซ้ำซ้อนในกระบวนการทำงานผ่านระบบอัตโนมัติที่ให้บริการได้ตลอด 24 ชั่วโมง [cite: 23] |
-| **Institutional Value** | พัฒนาโครงการต้นแบบ Digital Health ที่เป็นมาตรฐานสำหรับการให้บริการสาธารณสุขในระดับเทศบาล [cite: 24] |
-
----
-
-### โปรเจกต์ที่ใช้งานจริง (Production Projects)
-| ชื่อโปรเจกต์ | คุณค่าหลักของระบบ | สถานะ | ลิงก์ |
-| :--- | :--- | :--- | :--- |
-| **Telemedicine System** | [cite_start]ระบบลงทะเบียนและให้คำปรึกษาทางไกลแบบออนไลน์ [cite: 22] | ใช้งานอยู่ | [คลิกดู](https://kppmch-register.vercel.app/) |
-| **Maternal Care Portal** | ระบบติดตามสุขภาพดิจิทัลสำหรับการดูแลมารดาหลังคลอด | ใช้งานอยู่ | [คลิกดู](https://kppmch-pregnant.vercel.app/) |
-| **Hospital Service Hub** | ศูนย์รวมบริการภายในองค์กรและระบบ Workflow อัตโนมัติ | ใช้งานอยู่ | [คลิกดู](https://kppmch-service.vercel.app/) |
-
----
-
-### การศึกษา
-| ระดับการศึกษา | สถาบัน | รายละเอียด |
-| :--- | :--- | :--- |
-| **ป.ตรี วิทยาศาสตรบัณฑิต (วิศวกรรมซอฟต์แวร์)** | มหาวิทยาลัยแม่ฟ้าหลวง | จบปี 2024 [cite: 26, 27, 29] |
-
----
-
-### ช่องทางการติดต่อ
-| ช่องทาง | ลิงก์ |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratchanon-noknoy/) |
-| **Email** | [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratchanon.noknoy2318@gmail.com) |
-| **GitLab** | [![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ratchanon.noknoy2318) |
-
----
-
-<div align="center">
-  <i>"เพิ่มประสิทธิภาพการทำงานด้วยเทคโนโลยีที่รองรับการขยายตัวและโค้ดที่สะอาด" [cite: 32]</i>
+  <i>Building reliable, scalable systems that drive real-world digital transformation in healthcare.</i>
 </div>
