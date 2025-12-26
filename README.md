@@ -46,9 +46,9 @@ Professional Software Engineer with a strong focus on building secure, scalable,
 
 | Achievement / Certificate | Issuer | Details | Link |
 | :--- | :--- | :--- | :--- |
-| **Bachelor of Science (Software Engineering)** | Mae Fah Luang University | Transcript[cite: 23, 31]. | [View Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) |
-| **English Medium of Instruction** | Mae Fah Luang University |Certified English-taught Software Engineering program[cite: 31]. | [View Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
-| **Digital Learning Content Production** | MFU Digital Learning | Research and production for "Chinese 1" digital course[cite: 3]. | [View Certificate](https://drive.google.com/file/d/1h99HZDfKWMkNQd_Q5i3l4V5i3YCDoSqu/view?usp=sharing) |
+| **Bachelor of Science (Software Engineering)** | Mae Fah Luang University | Transcript. | [View Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) |
+| **English Medium of Instruction** | Mae Fah Luang University |Certified English-taught Software Engineering program. | [View Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
+| **Digital Learning Content Production** | MFU Digital Learning | Research and production for "Chinese 1" digital course. | [View Certificate](https://drive.google.com/file/d/1h99HZDfKWMkNQd_Q5i3l4V5i3YCDoSqu/view?usp=sharing) |
 
 ---
 
