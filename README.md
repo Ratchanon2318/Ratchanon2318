@@ -5,24 +5,6 @@ Professional Software Engineer with a strong focus on building secure, scalable,
 
 ---
 
-### Digital Presence
-* **Portfolio:** [https://ratchanon-portfolio.onrender.com/.app](https://ratchanon-portfolio.onrender.com//)
-* **LinkedIn:** [linkedin.com/in/ratchanon-noknoy](https://www.linkedin.com/in/ratchanon-noknoy/)
-* **Email:** ratchanon.noknoy2318@gmail.com
-
----
-
-### Technical Expertise
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Automation** | ![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HOSxP](https://img.shields.io/badge/HOSxP_Integration-009688?style=for-the-badge&logo=databricks&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_Expertise-blue?style=for-the-badge) |
-| **Infrastructure** | ![GitLab](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-
----
-
 ### Professional Experience
 
 #### Full Stack Developer (Healthcare Solutions)
@@ -39,6 +21,17 @@ Professional Software Engineer with a strong focus on building secure, scalable,
 
 ---
 
+### Technical Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Automation** | ![LINE](https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HOSxP](https://img.shields.io/badge/HOSxP_Integration-009688?style=for-the-badge&logo=databricks&logoColor=white) ![SQL](https://img.shields.io/badge/SQL_Expertise-blue?style=for-the-badge) |
+| **Infrastructure** | ![GitLab](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+
+---
+
 ### Featured Healthcare Projects
 
 | Project Name | Technology Stack | Impact | Live Demo |
@@ -49,10 +42,21 @@ Professional Software Engineer with a strong focus on building secure, scalable,
 
 ---
 
-### Education
-* **B.Sc. Software Engineering**, Mae Fah Luang University (2024)
-* **High School Diploma**, Nawaminthrachinuthit Bodindecha School (2017)
+### Certifications & Academic Records
 
+| Achievement / Certificate | Issuer | Details | Link |
+| :--- | :--- | :--- | :--- |
+| **Bachelor of Science (Software Engineering)** | Mae Fah Luang University | [cite_start]Academic Transcript[cite: 23, 31]. | [View Transcript](https://drive.google.com/file/d/1Mg4eAGtq2RxS1nW2fJ1qw03oKTnWl1z0/view?usp=sharing) |
+| **English Medium of Instruction** | Mae Fah Luang University | [cite_start]Certified English-taught Software Engineering program[cite: 31]. | [View Certificate](https://drive.google.com/file/d/1otllw5SAm5uMRiAOCGNRodGWYVE9FHeC/view?usp=sharing) |
+| **Digital Learning Content Production** | MFU Digital Learning | [cite_start]Research and production for "Chinese 1" digital course[cite: 3]. | [View Certificate](https://drive.google.com/file/d/1h99HZDfKWMkNQd_Q5i3l4V5i3YCDoSqu/view?usp=sharing) |
+
+---
+
+### Digital Presence & Education
+* **Portfolio:** [ratchanon-portfolio.vercel.app](https://ratchanon-portfolio.vercel.app/)
+* **LinkedIn:** [linkedin.com/in/ratchanon-noknoy](https://www.linkedin.com/in/ratchanon-noknoy/)
+* **Email:** ratchanon.noknoy2318@gmail.com
+* **Education:** Bachelor of Science (Software Engineering), Mae Fah Luang University
 ---
 
 <div align="center">
